@@ -17,4 +17,4 @@ With this preset, enemy markers no longer appear on the compass and rather than 
 
 ## Installation
 
-Download the zip from the Releases page and install with your preferred mod manager or extract to your game's Data folder.
+Download the zip from the [Releases page](https://github.com/fpbellow/EnemyCounter/releases) and install with your preferred mod manager or extract to your game's Data folder.
