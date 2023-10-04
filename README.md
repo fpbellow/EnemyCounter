@@ -1,5 +1,7 @@
 # EnemyCounter
 
+![EC-example](https://github.com/fpbellow/EnemyCounter/assets/47138704/201d8273-489b-4a08-ad77-bad1cc6e3c51)
+
 Provides an option to retrieve the amount of combatants engaged with the player in brief messages.
 
 Such include:
